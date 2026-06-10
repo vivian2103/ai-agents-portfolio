@@ -19,7 +19,7 @@ I build in public. Every workflow ships with full node-by-node documentation, th
 
 | Workflow | What it does | Stack |
 |---|---|---|
-| [Ramp Stack Warm Signal Monitor](./ramp-stack-signal-monitor/) | Monitors accounting trade press and job boards daily, classifies staffing pressure signals with AI, routes hot leads to AEs via Slack and HubSpot | n8n · OpenAI · Apollo · Slack · HubSpot |
+| [Ramp Stack Warm Signal Monitor](./ramp-stack-signal-monitoring) | Monitors accounting trade press and job boards daily, classifies staffing pressure signals with AI, routes hot leads to AEs via Slack and HubSpot | n8n · OpenAI · Apollo · Slack · HubSpot |
 | *More coming* | Personalized outreach generator for warm firm relationships | n8n · Claude · HubSpot |
 | *More coming* | Competitive intelligence monitor (Karbon, Botkeeper, Canopy) | n8n · Claude · Slack |
 
